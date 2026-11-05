@@ -1,0 +1,6 @@
+{
+  "name": "HadirKu - Presensi GPS & QR Code Real-Time",
+  "description": "Aplikasi presensi karyawan modern berbasis geolokasi GPS radius geofence dan pemindaian QR code dinamis real-time dengan kamera, validasi foto selfie, dan dashboard manajemen kehadiran.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
